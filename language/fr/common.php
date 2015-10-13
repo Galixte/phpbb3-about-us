@@ -1,10 +1,11 @@
 <?php
 /**
 *
-* @package phpBB Extension - Crizzo About us - French
-* @copyright (c) 2014-2015 Crizzo - www.crizzo.de
-* @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-* @translated into French by ForumsFaciles (http://www.forumsfaciles.f) & Galixte (http://www.galixte.com)
+* About us extension for the phpBB Forum Software package.
+* French by ForumsFaciles (http://www.forumsfaciles.f) & Galixte (http://www.galixte.com)
+*
+* @copyright (c) 2014-2015 Crizzo <http://www.crizzo.de>
+* @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
 
